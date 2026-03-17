@@ -1,0 +1,818 @@
+[
+  {
+    "team": "Spain",
+    "group": "H",
+    "elo": 1877,
+    "profile": {
+      "shot_conversion": 14.97,
+      "shot_accuracy": 42.42,
+      "defensive_save_rate": 88.48,
+      "xg_overperformance": 0.5,
+      "goal_difference": 1.49,
+      "possession": 63.46,
+      "shot_dominance": 2.03,
+      "goals_per_match": 2.4,
+      "conceded_per_match": 0.91
+    },
+    "matches_analyzed": 35
+  },
+  {
+    "team": "Argentina",
+    "group": "J",
+    "elo": 1873,
+    "profile": {
+      "shot_conversion": 16.42,
+      "shot_accuracy": 49.65,
+      "defensive_save_rate": 92.55,
+      "xg_overperformance": 0.42,
+      "goal_difference": 1.74,
+      "possession": 64.62,
+      "shot_dominance": 2.53,
+      "goals_per_match": 2.12,
+      "conceded_per_match": 0.38
+    },
+    "matches_analyzed": 34
+  },
+  {
+    "team": "France",
+    "group": "I",
+    "elo": 1870,
+    "profile": {
+      "shot_conversion": 10.2,
+      "shot_accuracy": 37.82,
+      "defensive_save_rate": 85.92,
+      "xg_overperformance": -0.19,
+      "goal_difference": 0.65,
+      "possession": 57.0,
+      "shot_dominance": 2.28,
+      "goals_per_match": 1.65,
+      "conceded_per_match": 1.0
+    },
+    "matches_analyzed": 34
+  },
+  {
+    "team": "England",
+    "group": "L",
+    "elo": 1834,
+    "profile": {
+      "shot_conversion": 13.57,
+      "shot_accuracy": 42.46,
+      "defensive_save_rate": 88.51,
+      "xg_overperformance": 0.23,
+      "goal_difference": 1.03,
+      "possession": 64.33,
+      "shot_dominance": 1.98,
+      "goals_per_match": 1.8,
+      "conceded_per_match": 0.77
+    },
+    "matches_analyzed": 35
+  },
+  {
+    "team": "Brazil",
+    "group": "C",
+    "elo": 1760,
+    "profile": {
+      "shot_conversion": 14.71,
+      "shot_accuracy": 43.23,
+      "defensive_save_rate": 87.02,
+      "xg_overperformance": 0.27,
+      "goal_difference": 0.55,
+      "possession": 59.94,
+      "shot_dominance": 1.33,
+      "goals_per_match": 1.64,
+      "conceded_per_match": 1.09
+    },
+    "matches_analyzed": 33
+  },
+  {
+    "team": "Portugal",
+    "group": "K",
+    "elo": 1760,
+    "profile": {
+      "shot_conversion": 14.35,
+      "shot_accuracy": 39.82,
+      "defensive_save_rate": 89.25,
+      "xg_overperformance": 0.34,
+      "goal_difference": 1.22,
+      "possession": 60.47,
+      "shot_dominance": 1.66,
+      "goals_per_match": 2.22,
+      "conceded_per_match": 1.0
+    },
+    "matches_analyzed": 32
+  },
+  {
+    "team": "Netherlands",
+    "group": "F",
+    "elo": 1756,
+    "profile": {
+      "shot_conversion": 18.39,
+      "shot_accuracy": 41.72,
+      "defensive_save_rate": 88.09,
+      "xg_overperformance": 0.87,
+      "goal_difference": 1.41,
+      "possession": 58.01,
+      "shot_dominance": 1.46,
+      "goals_per_match": 2.53,
+      "conceded_per_match": 1.12
+    },
+    "matches_analyzed": 34
+  },
+  {
+    "team": "Morocco",
+    "group": "C",
+    "elo": 1736,
+    "profile": {
+      "shot_conversion": 11.96,
+      "shot_accuracy": 38.47,
+      "defensive_save_rate": 93.67,
+      "xg_overperformance": 0.02,
+      "goal_difference": 1.35,
+      "possession": 61.16,
+      "shot_dominance": 2.83,
+      "goals_per_match": 1.66,
+      "conceded_per_match": 0.31
+    },
+    "matches_analyzed": 32
+  },
+  {
+    "team": "Belgium",
+    "group": "G",
+    "elo": 1730,
+    "profile": {
+      "shot_conversion": 13.24,
+      "shot_accuracy": 42.61,
+      "defensive_save_rate": 87.74,
+      "xg_overperformance": 0.19,
+      "goal_difference": 0.94,
+      "possession": 60.54,
+      "shot_dominance": 1.77,
+      "goals_per_match": 1.97,
+      "conceded_per_match": 1.03
+    },
+    "matches_analyzed": 32
+  },
+  {
+    "team": "Germany",
+    "group": "E",
+    "elo": 1724,
+    "profile": {
+      "shot_conversion": 14.78,
+      "shot_accuracy": 44.4,
+      "defensive_save_rate": 87.22,
+      "xg_overperformance": 0.32,
+      "goal_difference": 0.78,
+      "possession": 63.67,
+      "shot_dominance": 1.41,
+      "goals_per_match": 2.02,
+      "conceded_per_match": 1.24
+    },
+    "matches_analyzed": 42
+  },
+  {
+    "team": "Croatia",
+    "group": "L",
+    "elo": 1716,
+    "profile": {
+      "shot_conversion": 13.99,
+      "shot_accuracy": 43.69,
+      "defensive_save_rate": 91.15,
+      "xg_overperformance": 0.2,
+      "goal_difference": 0.94,
+      "possession": 56.58,
+      "shot_dominance": 1.23,
+      "goals_per_match": 1.94,
+      "conceded_per_match": 1.0
+    },
+    "matches_analyzed": 31
+  },
+  {
+    "team": "Senegal",
+    "group": "I",
+    "elo": 1706,
+    "profile": {
+      "shot_conversion": 19.65,
+      "shot_accuracy": 50.0,
+      "defensive_save_rate": 93.21,
+      "xg_overperformance": 0.55,
+      "goal_difference": 1.47,
+      "possession": 52.32,
+      "shot_dominance": 1.31,
+      "goals_per_match": 2.0,
+      "conceded_per_match": 0.53
+    },
+    "matches_analyzed": 34
+  },
+  {
+    "team": "Italy",
+    "group": "B",
+    "elo": 1702,
+    "profile": {
+      "shot_conversion": 13.22,
+      "shot_accuracy": 36.52,
+      "defensive_save_rate": 88.2,
+      "xg_overperformance": 0.3,
+      "goal_difference": 0.5,
+      "possession": 52.44,
+      "shot_dominance": 1.23,
+      "goals_per_match": 1.81,
+      "conceded_per_match": 1.31
+    },
+    "matches_analyzed": 32
+  },
+  {
+    "team": "Colombia",
+    "group": "K",
+    "elo": 1701,
+    "profile": {
+      "shot_conversion": 17.26,
+      "shot_accuracy": 45.39,
+      "defensive_save_rate": 91.06,
+      "xg_overperformance": 0.47,
+      "goal_difference": 1.13,
+      "possession": 55.61,
+      "shot_dominance": 1.29,
+      "goals_per_match": 1.89,
+      "conceded_per_match": 0.76
+    },
+    "matches_analyzed": 38
+  },
+  {
+    "team": "USA",
+    "group": "D",
+    "elo": 1681,
+    "profile": {
+      "shot_conversion": 8.83,
+      "shot_accuracy": 41.22,
+      "defensive_save_rate": 87.8,
+      "xg_overperformance": -0.36,
+      "goal_difference": 0.0,
+      "possession": 46.0,
+      "shot_dominance": 1.38,
+      "goals_per_match": 1.0,
+      "conceded_per_match": 1.0
+    },
+    "matches_analyzed": 3
+  },
+  {
+    "team": "Mexico",
+    "group": "A",
+    "elo": 1675,
+    "profile": {
+      "shot_conversion": 11.55,
+      "shot_accuracy": 41.52,
+      "defensive_save_rate": 80.57,
+      "xg_overperformance": 0.08,
+      "goal_difference": -0.08,
+      "possession": 53.44,
+      "shot_dominance": 1.58,
+      "goals_per_match": 1.28,
+      "conceded_per_match": 1.36
+    },
+    "matches_analyzed": 25
+  },
+  {
+    "team": "Uruguay",
+    "group": "H",
+    "elo": 1672,
+    "profile": {
+      "shot_conversion": 14.89,
+      "shot_accuracy": 36.81,
+      "defensive_save_rate": 91.05,
+      "xg_overperformance": 0.29,
+      "goal_difference": 0.63,
+      "possession": 52.06,
+      "shot_dominance": 1.09,
+      "goals_per_match": 1.4,
+      "conceded_per_match": 0.77
+    },
+    "matches_analyzed": 35
+  },
+  {
+    "team": "Switzerland",
+    "group": "B",
+    "elo": 1654,
+    "profile": {
+      "shot_conversion": 16.75,
+      "shot_accuracy": 44.67,
+      "defensive_save_rate": 88.04,
+      "xg_overperformance": 0.38,
+      "goal_difference": 0.58,
+      "possession": 54.42,
+      "shot_dominance": 1.09,
+      "goals_per_match": 1.68,
+      "conceded_per_match": 1.1
+    },
+    "matches_analyzed": 31
+  },
+  {
+    "team": "Japan",
+    "group": "F",
+    "elo": 1650,
+    "profile": {
+      "shot_conversion": 30.36,
+      "shot_accuracy": 47.74,
+      "defensive_save_rate": 92.11,
+      "xg_overperformance": 1.68,
+      "goal_difference": 2.6,
+      "possession": 58.19,
+      "shot_dominance": 1.47,
+      "goals_per_match": 3.16,
+      "conceded_per_match": 0.56
+    },
+    "matches_analyzed": 32
+  },
+  {
+    "team": "Iran",
+    "group": "G",
+    "elo": 1617,
+    "profile": {
+      "shot_conversion": 27.86,
+      "shot_accuracy": 43.75,
+      "defensive_save_rate": 92.89,
+      "xg_overperformance": 0.62,
+      "goal_difference": 1.5,
+      "possession": 50.64,
+      "shot_dominance": 0.85,
+      "goals_per_match": 2.14,
+      "conceded_per_match": 0.64
+    },
+    "matches_analyzed": 28
+  },
+  {
+    "team": "Denmark",
+    "group": "A",
+    "elo": 1616,
+    "profile": {
+      "shot_conversion": 12.59,
+      "shot_accuracy": 42.0,
+      "defensive_save_rate": 90.1,
+      "xg_overperformance": 0.19,
+      "goal_difference": 0.73,
+      "possession": 53.33,
+      "shot_dominance": 1.38,
+      "goals_per_match": 1.7,
+      "conceded_per_match": 0.97
+    },
+    "matches_analyzed": 30
+  },
+  {
+    "team": "South Korea",
+    "group": "A",
+    "elo": 1599,
+    "profile": {
+      "shot_conversion": 23.95,
+      "shot_accuracy": 42.99,
+      "defensive_save_rate": 91.28,
+      "xg_overperformance": 0.7,
+      "goal_difference": 1.42,
+      "possession": 63.61,
+      "shot_dominance": 1.12,
+      "goals_per_match": 2.1,
+      "conceded_per_match": 0.68
+    },
+    "matches_analyzed": 31
+  },
+  {
+    "team": "Ecuador",
+    "group": "E",
+    "elo": 1591,
+    "profile": {
+      "shot_conversion": 10.25,
+      "shot_accuracy": 43.91,
+      "defensive_save_rate": 93.18,
+      "xg_overperformance": -0.22,
+      "goal_difference": 0.46,
+      "possession": 53.11,
+      "shot_dominance": 1.17,
+      "goals_per_match": 1.06,
+      "conceded_per_match": 0.6
+    },
+    "matches_analyzed": 35
+  },
+  {
+    "team": "Austria",
+    "group": "J",
+    "elo": 1585,
+    "profile": {
+      "shot_conversion": 15.85,
+      "shot_accuracy": 43.58,
+      "defensive_save_rate": 89.69,
+      "xg_overperformance": 0.45,
+      "goal_difference": 1.0,
+      "possession": 57.0,
+      "shot_dominance": 1.3,
+      "goals_per_match": 2.0,
+      "conceded_per_match": 1.0
+    },
+    "matches_analyzed": 32
+  },
+  {
+    "team": "Turkey",
+    "group": "D",
+    "elo": 1582,
+    "profile": {
+      "shot_conversion": 14.88,
+      "shot_accuracy": 43.58,
+      "defensive_save_rate": 84.47,
+      "xg_overperformance": 0.53,
+      "goal_difference": 0.65,
+      "possession": 56.29,
+      "shot_dominance": 1.51,
+      "goals_per_match": 2.11,
+      "conceded_per_match": 1.46
+    },
+    "matches_analyzed": 28
+  },
+  {
+    "team": "Australia",
+    "group": "D",
+    "elo": 1574,
+    "profile": {
+      "shot_conversion": 27.0,
+      "shot_accuracy": 41.51,
+      "defensive_save_rate": 92.95,
+      "xg_overperformance": 0.89,
+      "goal_difference": 1.07,
+      "possession": 45.93,
+      "shot_dominance": 0.62,
+      "goals_per_match": 1.86,
+      "conceded_per_match": 0.79
+    },
+    "matches_analyzed": 28
+  },
+  {
+    "team": "Algeria",
+    "group": "J",
+    "elo": 1560,
+    "profile": {
+      "shot_conversion": 22.14,
+      "shot_accuracy": 51.33,
+      "defensive_save_rate": 89.19,
+      "xg_overperformance": 0.79,
+      "goal_difference": 1.24,
+      "possession": 56.57,
+      "shot_dominance": 1.14,
+      "goals_per_match": 2.17,
+      "conceded_per_match": 0.93
+    },
+    "matches_analyzed": 30
+  },
+  {
+    "team": "Canada",
+    "group": "B",
+    "elo": 1559,
+    "profile": {
+      "shot_conversion": 9.66,
+      "shot_accuracy": 39.96,
+      "defensive_save_rate": 89.44,
+      "xg_overperformance": -0.22,
+      "goal_difference": -0.06,
+      "possession": 45.11,
+      "shot_dominance": 1.02,
+      "goals_per_match": 0.89,
+      "conceded_per_match": 0.95
+    },
+    "matches_analyzed": 19
+  },
+  {
+    "team": "Ukraine",
+    "group": "F",
+    "elo": 1557,
+    "profile": {
+      "shot_conversion": 13.79,
+      "shot_accuracy": 41.73,
+      "defensive_save_rate": 87.71,
+      "xg_overperformance": 0.35,
+      "goal_difference": 0.1,
+      "possession": 50.1,
+      "shot_dominance": 0.95,
+      "goals_per_match": 1.55,
+      "conceded_per_match": 1.45
+    },
+    "matches_analyzed": 29
+  },
+  {
+    "team": "Egypt",
+    "group": "G",
+    "elo": 1556,
+    "profile": {
+      "shot_conversion": 16.4,
+      "shot_accuracy": 44.94,
+      "defensive_save_rate": 90.0,
+      "xg_overperformance": 0.3,
+      "goal_difference": 0.77,
+      "possession": 51.94,
+      "shot_dominance": 1.16,
+      "goals_per_match": 1.62,
+      "conceded_per_match": 0.85
+    },
+    "matches_analyzed": 34
+  },
+  {
+    "team": "Norway",
+    "group": "I",
+    "elo": 1553,
+    "profile": {
+      "shot_conversion": 18.16,
+      "shot_accuracy": 44.43,
+      "defensive_save_rate": 88.94,
+      "xg_overperformance": 0.9,
+      "goal_difference": 1.6,
+      "possession": 55.43,
+      "shot_dominance": 1.55,
+      "goals_per_match": 2.64,
+      "conceded_per_match": 1.04
+    },
+    "matches_analyzed": 28
+  },
+  {
+    "team": "Panama",
+    "group": "L",
+    "elo": 1539,
+    "profile": {
+      "shot_conversion": 13.25,
+      "shot_accuracy": 37.37,
+      "defensive_save_rate": 88.58,
+      "xg_overperformance": 0.22,
+      "goal_difference": 0.05,
+      "possession": 53.32,
+      "shot_dominance": 0.89,
+      "goals_per_match": 1.5,
+      "conceded_per_match": 1.45
+    },
+    "matches_analyzed": 22
+  },
+  {
+    "team": "Scotland",
+    "group": "C",
+    "elo": 1533,
+    "profile": {
+      "shot_conversion": 13.11,
+      "shot_accuracy": 36.71,
+      "defensive_save_rate": 87.54,
+      "xg_overperformance": 0.15,
+      "goal_difference": -0.07,
+      "possession": 52.87,
+      "shot_dominance": 0.91,
+      "goals_per_match": 1.45,
+      "conceded_per_match": 1.52
+    },
+    "matches_analyzed": 31
+  },
+  {
+    "team": "Paraguay",
+    "group": "D",
+    "elo": 1528,
+    "profile": {
+      "shot_conversion": 9.25,
+      "shot_accuracy": 39.36,
+      "defensive_save_rate": 89.49,
+      "xg_overperformance": -0.12,
+      "goal_difference": -0.13,
+      "possession": 41.6,
+      "shot_dominance": 0.99,
+      "goals_per_match": 0.9,
+      "conceded_per_match": 1.03
+    },
+    "matches_analyzed": 30
+  },
+  {
+    "team": "South Africa",
+    "group": "A",
+    "elo": 1512,
+    "profile": {
+      "shot_conversion": 12.68,
+      "shot_accuracy": 44.21,
+      "defensive_save_rate": 91.79,
+      "xg_overperformance": 0.01,
+      "goal_difference": 0.69,
+      "possession": 58.34,
+      "shot_dominance": 1.3,
+      "goals_per_match": 1.38,
+      "conceded_per_match": 0.69
+    },
+    "matches_analyzed": 32
+  },
+  {
+    "team": "Saudi Arabia",
+    "group": "H",
+    "elo": 1500,
+    "profile": {
+      "shot_conversion": 18.91,
+      "shot_accuracy": 40.38,
+      "defensive_save_rate": 88.1,
+      "xg_overperformance": 0.05,
+      "goal_difference": 0.24,
+      "possession": 58.12,
+      "shot_dominance": 0.79,
+      "goals_per_match": 1.18,
+      "conceded_per_match": 0.94
+    },
+    "matches_analyzed": 33
+  },
+  {
+    "team": "Tunisia",
+    "group": "F",
+    "elo": 1498,
+    "profile": {
+      "shot_conversion": 15.82,
+      "shot_accuracy": 45.34,
+      "defensive_save_rate": 91.65,
+      "xg_overperformance": 0.13,
+      "goal_difference": 0.53,
+      "possession": 51.19,
+      "shot_dominance": 0.87,
+      "goals_per_match": 1.34,
+      "conceded_per_match": 0.81
+    },
+    "matches_analyzed": 32
+  },
+  {
+    "team": "Uzbekistan",
+    "group": "K",
+    "elo": 1489,
+    "profile": {
+      "shot_conversion": 20.41,
+      "shot_accuracy": 35.43,
+      "defensive_save_rate": 92.62,
+      "xg_overperformance": 0.14,
+      "goal_difference": 0.83,
+      "possession": 47.76,
+      "shot_dominance": 0.76,
+      "goals_per_match": 1.59,
+      "conceded_per_match": 0.76
+    },
+    "matches_analyzed": 29
+  },
+  {
+    "team": "Haiti",
+    "group": "C",
+    "elo": 1470,
+    "profile": {
+      "shot_conversion": 14.28,
+      "shot_accuracy": 39.14,
+      "defensive_save_rate": 90.17,
+      "xg_overperformance": 0.46,
+      "goal_difference": 0.91,
+      "possession": 55.45,
+      "shot_dominance": 1.22,
+      "goals_per_match": 2.09,
+      "conceded_per_match": 1.18
+    },
+    "matches_analyzed": 11
+  },
+  {
+    "team": "Cote d'Ivoire",
+    "group": "E",
+    "elo": 1467,
+    "profile": {
+      "shot_conversion": null,
+      "shot_accuracy": null,
+      "defensive_save_rate": null,
+      "xg_overperformance": null,
+      "goal_difference": null,
+      "possession": null,
+      "shot_dominance": null,
+      "goals_per_match": null,
+      "conceded_per_match": null
+    },
+    "matches_analyzed": 0
+  },
+  {
+    "team": "Ghana",
+    "group": "L",
+    "elo": 1460,
+    "profile": {
+      "shot_conversion": 17.39,
+      "shot_accuracy": 40.7,
+      "defensive_save_rate": 87.45,
+      "xg_overperformance": 0.45,
+      "goal_difference": 0.55,
+      "possession": 53.5,
+      "shot_dominance": 1.06,
+      "goals_per_match": 1.73,
+      "conceded_per_match": 1.18
+    },
+    "matches_analyzed": 22
+  },
+  {
+    "team": "Iraq",
+    "group": "I",
+    "elo": 1450,
+    "profile": {
+      "shot_conversion": 22.38,
+      "shot_accuracy": 37.06,
+      "defensive_save_rate": 92.83,
+      "xg_overperformance": 0.31,
+      "goal_difference": 0.52,
+      "possession": 44.56,
+      "shot_dominance": 0.54,
+      "goals_per_match": 1.28,
+      "conceded_per_match": 0.76
+    },
+    "matches_analyzed": 25
+  },
+  {
+    "team": "DR Congo",
+    "group": "K",
+    "elo": 1450,
+    "profile": {
+      "shot_conversion": null,
+      "shot_accuracy": null,
+      "defensive_save_rate": null,
+      "xg_overperformance": null,
+      "goal_difference": null,
+      "possession": null,
+      "shot_dominance": null,
+      "goals_per_match": null,
+      "conceded_per_match": null
+    },
+    "matches_analyzed": 0
+  },
+  {
+    "team": "New Zealand",
+    "group": "G",
+    "elo": 1440,
+    "profile": {
+      "shot_conversion": 17.52,
+      "shot_accuracy": 43.48,
+      "defensive_save_rate": 89.74,
+      "xg_overperformance": 0.28,
+      "goal_difference": 0.46,
+      "possession": 47.57,
+      "shot_dominance": 0.81,
+      "goals_per_match": 1.64,
+      "conceded_per_match": 1.18
+    },
+    "matches_analyzed": 28
+  },
+  {
+    "team": "Qatar",
+    "group": "B",
+    "elo": 1434,
+    "profile": {
+      "shot_conversion": 18.02,
+      "shot_accuracy": 39.0,
+      "defensive_save_rate": 86.83,
+      "xg_overperformance": 0.59,
+      "goal_difference": 0.0,
+      "possession": 58.74,
+      "shot_dominance": 0.73,
+      "goals_per_match": 1.58,
+      "conceded_per_match": 1.58
+    },
+    "matches_analyzed": 31
+  },
+  {
+    "team": "Jordan",
+    "group": "J",
+    "elo": 1427,
+    "profile": {
+      "shot_conversion": 24.19,
+      "shot_accuracy": 44.99,
+      "defensive_save_rate": 87.02,
+      "xg_overperformance": 0.37,
+      "goal_difference": 0.22,
+      "possession": 42.35,
+      "shot_dominance": 0.62,
+      "goals_per_match": 1.57,
+      "conceded_per_match": 1.35
+    },
+    "matches_analyzed": 37
+  },
+  {
+    "team": "Curacao",
+    "group": "E",
+    "elo": 1382,
+    "profile": {
+      "shot_conversion": null,
+      "shot_accuracy": null,
+      "defensive_save_rate": null,
+      "xg_overperformance": null,
+      "goal_difference": null,
+      "possession": null,
+      "shot_dominance": null,
+      "goals_per_match": null,
+      "conceded_per_match": null
+    },
+    "matches_analyzed": 0
+  },
+  {
+    "team": "Cabo Verde",
+    "group": "H",
+    "elo": 1360,
+    "profile": {
+      "shot_conversion": null,
+      "shot_accuracy": null,
+      "defensive_save_rate": null,
+      "xg_overperformance": null,
+      "goal_difference": null,
+      "possession": null,
+      "shot_dominance": null,
+      "goals_per_match": null,
+      "conceded_per_match": null
+    },
+    "matches_analyzed": 0
+  }
+]
